@@ -1,0 +1,37 @@
+Development Log on project I
+Name of project: Project Smol
+Objective: develop an art auction webpage
+Director: Gabriel Zaid Guti rrez Gonz lez(GZG)
+Developer: Gabriel Zaid Guti rrez Gonz lez(GZG)
+
+///Notice:only add relevant information on what was worked on\\\
+
+Log entries:
+
+9/12/2022 
+“After brainstorming ideas, I couldn’t set foot on which way I would go. Either use a small portion of the bootstrap documentation, or go full bootstrap on my web page. But what I did set foot on was the theme of my web page: children’s drawings. I don’t really know why, but it just seems really funny to me.”
+GZG
+
+9/14/2022 
+“I decided to go full bootstrap on my webpage, now I just need to study it more thoroughly so I can work on it more easily.”
+GZG
+
+9/15/2022 
+“Tried to come up with a design, but It’s a different story drawing a webpage than coding a web page. I'm having difficulties with the grid system of bootstrap.”
+GZG
+
+9/16/2022 
+“It's not the way I wanted the index to look, but I'll keep it that way, so I can focus on other aspects of the webpage.”
+GZG
+
+9/18/2022 
+“I focused on making everything in the page make sense by approaching the colors and styles of the page. I decided to go with a simple black and white design, and I'm still having problems with the grid system.”
+GZG
+
+
+
+9/18/2022 
+“The webpage is finished, there are some problems with the index part of the page as in the part where i'm trying to make the gutter on the y axis bigger in one of the columns, I’ll try to fix it”
+GZG
+
+

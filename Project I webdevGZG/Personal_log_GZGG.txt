@@ -1,0 +1,11 @@
+Personal Log on project I
+Gabriel Zaid Gutierrez Gonzalez #0244959
+
+Notice:only add relevant information on what was worked on
+
+As I'm finishing the webpage, I can say that I did my best to come up with something in good condition to be called a project. 
+I put 100% effort into it to look the best as possible, but in reality that effort needs a little more web developing practice. 
+That is, because my time coding exceeded my exceptions. It took me almost 4 hours just to set up an image to look good in all viewports. 
+Additionally, trying to understand how the grid system works took me ages to get. Pushing my sanity to the limit.
+
+With enough practice, knowledge,and a partner by my side, I can safely say I can bring forward a twice as better web page in half the time.
